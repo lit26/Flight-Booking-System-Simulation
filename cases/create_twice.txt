@@ -1,0 +1,15 @@
+#
+# this is a comment
+#
+# user 1's commands
+create user1 user1 10
+create user1 user1 100
+quit
+*  #  a single * in the beginning separates commands and expected results
+#
+# expected printouts for user 1
+#
+Created user user1
+Failed to create user
+Goodbye
+*
